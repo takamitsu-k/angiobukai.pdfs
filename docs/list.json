@@ -1,23 +1,24 @@
 {
   "items": [
     {
-      "title": "心血管のスライドaaaaaaaaaaaaaaa",
+      "title": "部会提示用資料1(imaging device)",
       "type": "pdf",
       "url": "https://raw.githubusercontent.com/takamitsu-k/angiobukai.pdfs/main/docs/n0910072534118.pdf"
     },
     {
-      "title": "術式に関する資料",
+      "title": "部会提示用資料2(DCB)",
       "type": "pdf",
       "url": "https://yourname.github.io/yourrepo/procedure.pdf"
     },
     {
-      "title": "2024年5月ご案内（過去）",
-      "type": "image",
+      "title": "部会提示用資料3(DRLs)",
+      "type": "pdf",
       "url": "https://yourname.github.io/yourrepo/2024_05.jpg"
     }
   ],
   "updated": "2025-09-20T00:00:00Z"
 }
+
 
 
 
