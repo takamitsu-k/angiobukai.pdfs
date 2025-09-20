@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "title": "心血管のスライド",
+      "type": "pdf",
+      "url": "https://yourname.github.io/yourrepo/cardiovascular.pdf"
+    },
+    {
+      "title": "術式に関する資料",
+      "type": "pdf",
+      "url": "https://yourname.github.io/yourrepo/procedure.pdf"
+    },
+    {
+      "title": "2024年5月ご案内（過去）",
+      "type": "image",
+      "url": "https://yourname.github.io/yourrepo/2024_05.jpg"
+    }
+  ],
+  "updated": "2025-09-20T00:00:00Z"
+}
