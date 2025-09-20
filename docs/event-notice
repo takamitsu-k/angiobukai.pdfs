@@ -1,1 +1,22 @@
+{
+  "items": [
+    {
+      "title": "第61回(次回)",
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/takamitsu-k/angiobukai.pdfs/main/docs/n0910072534118.pdf"
+    },
+    {
+      "title": "第60回(リンクをつけていません)",
+      "type": "pdf",
+      "url": "https://yourname.github.io/yourrepo/procedure.pdf"
+    },
+    {
+      "title": "第59回(リンクをつけていません)",
+      "type": "pdf",
+      "url": "https://yourname.github.io/yourrepo/2024_05.jpg"
+    }
+  ],
+  "updated": "2025-09-20T00:00:00Z"
+}
+
 
